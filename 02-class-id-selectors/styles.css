@@ -1,0 +1,21 @@
+p {
+    background-color: rgb(235, 141, 161);
+    font-family:'Verdana', "DejaVU Sans", "sans-serif"
+}
+
+div {
+    font-size: 38px;
+}
+#test {
+    font-size: 300;
+    color: blue;
+
+}
+div #test2 {
+    font-size: 20px;
+}
+#test2 {
+    background-color: rgb(106, 223, 106);
+    font-weight: bold;
+    font-size: 24px;
+}
